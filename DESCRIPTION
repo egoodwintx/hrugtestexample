@@ -3,7 +3,7 @@ Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
 Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: More about what it does (maybe more than one line)
+Description: Simple Package Skeleton for a talk on testthat that I did for the Houston R Users Group in April 2016.  Code located at http://www.slideshare.net/egoodwintx/unit-testing-in-r-with-testthat-hrug
 License: What license is it under?
 LazyData: TRUE
 Suggests: testthat
